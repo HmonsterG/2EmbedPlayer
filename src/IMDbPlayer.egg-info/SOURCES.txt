@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+src/IMDbPlayer/__init__.py
+src/IMDbPlayer/__main__.py
+src/IMDbPlayer.egg-info/PKG-INFO
+src/IMDbPlayer.egg-info/SOURCES.txt
+src/IMDbPlayer.egg-info/dependency_links.txt
+src/IMDbPlayer.egg-info/entry_points.txt
+src/IMDbPlayer.egg-info/top_level.txt
