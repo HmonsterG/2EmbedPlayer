@@ -1,6 +1,7 @@
 # 2EmbedPlayer
 
 *A simple Python script that plays movies and TV shows using IMDb and 2embed.*
+This is now deprecated due to 2embed being taken down for copyright infrigement. I'm currently working on another tool so hang tight <3
 
 ## Features
 - **Simple**: Easy command-line arguments
